@@ -7,7 +7,8 @@
 
 Pada soal shift kali ini kita diminta membuat topologi sesuai yang diminta dimana ada 3 server, 4 client dan 1 router.
 Hal pertama yang kita harus lakukan adalah kita mengganti file ```topologi.sh``` yang kita punya.
-<!-- insert gambar topo -->
+
+![topologi](/image/topo.png)
 
 ## Soal 1
 Pada soal 1 kita hanya diminta untuk membuat topologi yang sama dengan yang diminta dimana sudah kita lakukan pada step sebelumnya.
