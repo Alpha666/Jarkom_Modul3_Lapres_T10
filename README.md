@@ -16,36 +16,36 @@ Pada soal 1 kita hanya diminta untuk membuat topologi yang sama dengan yang dimi
 ## Soal 2 
 Pada soal 2 ini kita diminta untuk melakukan setting dimana TUBAN akan ditunjuk sebagai DHCP server sementara SURABAYA menjadi DHCP Relay.
 
-![relay](/image/surabaya_relay)
-![relay2](/image/dhcp_server_tuban)
+![relay](/image/surabaya_relay.png)
+![relay2](/image/dhcp_server_tuban.png)
 <!-- insert gambar surabaya + tuban -->
 
 ## Soal 3 
 Pada soal 3 kita diminta untuk melakukan setting terhadap client agar tidak menggunakan IP statis, sehingga kita harus menggunakan DHCP. Selain itu, kita juga perlu memberikan ip range kepada client 1 dan juga 2
 
-![dhcp](/image/gambar_dhcp)
-![range1](/image/range_ip_1)
+![dhcp](/image/gambar_dhcp.png)
+![range1](/image/range_ip_1.png)
 
 <!-- insert gambar dhcp, range 1-->
 
 ## Soal 4
 Pada soal nomer 4 kita diminta untuk memberikan range ip pada clinet 3 dan 4 yang ada pada subnet 3.
 
-![range2](/image/range_ip_2)
+![range2](/image/range_ip_2.png)
 <!-- insert gambar range ip 2 -->
 
 ## Soal 5
 Pada soal nomer 5 ini kita diminta agar client mendapatkan DNS dari MALANG dan juga dari `202.46.129.2`
 
-![dns](/image/client_dns)
+![dns](/image/client_dns.png)
 
 <!-- insert gambar client dns -->
 
 ## Soal 6
 Kita juga perlu untuk mengatur waktu peminjaman IP dimana pada subnet 1 diberikan 5 menit dan pada subnet 2 diberikan 10 menit.
 
-![range1](/image/range_ip_1)
-![range2](/image/range_ip_2)
+![range1](/image/range_ip_1.png)
+![range2](/image/range_ip_2.png)
 <!-- insert gambar range 1 + 2 -->
 
 ## Soal 7
@@ -54,14 +54,14 @@ Kita perlu membuat passwd dari squid agar ketika kita mengakses nya maka user pe
 ## Soal 8
 Kita perlu memberikan acl agar aturan untuk mengakses nya bisa berjalan dengan baik.
 
-![acl](/image/acl_rule)
+![acl](/image/acl_rule.png)
 
 <!-- insert gambar acl rule -->
 
 ## Soal 9
 Kita perlu memberikan acl agar aturan untuk mengakses nya bisa berjalan dengan baik.
 
-![acl2](/image/acl_rule)
+![acl2](/image/acl_rule.png)
 <!-- insert gambar acl rule -->
 
 ## Soal 10
@@ -77,7 +77,7 @@ Kita hanya perlu mengunduh file yang diberikan dan kita bisa langsung mereplace 
 ## Soal 12
 Kita perlu melakukan konfigurasi DNS pada MALANG agar bisa menjalankan melalui domain `janganlupa-ta.t10.pw`.
 
-![dns1](/image/dns1)
-![dns2](/image/dns2)
+![dns1](/image/dns1.png)
+![dns2](/image/dns2.png)
 
 <!-- insert gambar domain nomer 12 -->
