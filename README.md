@@ -35,7 +35,7 @@ Pada soal nomer 4 kita diminta untuk memberikan range ip pada clinet 3 dan 4 yan
 <!-- insert gambar range ip 2 -->
 
 ## Soal 5
-Pada soal nomer 5 ini kita diminta agar client mendapatkan DNS dari MALANG dan juga dari `202.46.129.2`
+Pada soal nomer 5 ini kita diminta agar client mendapatkan DNS dari MALANG dan juga dari `202.46.129.2`. 
 
 ![dns](/image/client_dns.png)
 
@@ -51,15 +51,17 @@ Kita juga perlu untuk mengatur waktu peminjaman IP dimana pada subnet 1 diberika
 ## Soal 7
 Kita perlu membuat passwd dari squid agar ketika kita mengakses nya maka user perlu memasukkan username dan password.
 
+![passwd](/image/signin.png)
+
 ## Soal 8
-Kita perlu memberikan acl agar aturan untuk mengakses nya bisa berjalan dengan baik.
+Kita perlu memberikan acl agar aturan untuk mengakses nya bisa berjalan dengan baik. Dimana kita perlu untuk melakukan set waktu yang biasa digunakan oleh Megu.
 
 ![acl](/image/acl_rule.png)
 
 <!-- insert gambar acl rule -->
 
 ## Soal 9
-Kita perlu memberikan acl agar aturan untuk mengakses nya bisa berjalan dengan baik.
+Kita perlu memberikan acl agar aturan untuk mengakses nya bisa berjalan dengan baik. Selain itu, kita juga melakukan setting agar situs hanya bisa di akses pada jam jam tertentu.
 
 ![acl2](/image/acl_rule.png)
 <!-- insert gambar acl rule -->
@@ -67,11 +69,13 @@ Kita perlu memberikan acl agar aturan untuk mengakses nya bisa berjalan dengan b
 ## Soal 10
 Kita perlu melakukan setting pada konfigurasi squid agar ketika mengakses google maka akan di redirect ke website `monta.if.its.ac.id`
 
+![monta](/image/redirect.png)
 <!-- insert gambar monta -->
 
 ## Soal 11
 Kita hanya perlu mengunduh file yang diberikan dan kita bisa langsung mereplace halaman denied default dari squid yang terletak di `/usr/share/squid/errors/English`.
 
+![forbid](/image/forbid.png)
 <!-- insert gambar forbidden -->
 
 ## Soal 12
